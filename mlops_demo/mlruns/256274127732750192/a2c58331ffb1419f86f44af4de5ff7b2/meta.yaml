@@ -1,0 +1,14 @@
+artifact_uri: file:///opt/airflow/mlops_demo/mlruns/256274127732750192/a2c58331ffb1419f86f44af4de5ff7b2/artifacts
+end_time: 1763259684174
+entry_point_name: ''
+experiment_id: '256274127732750192'
+lifecycle_stage: active
+run_id: a2c58331ffb1419f86f44af4de5ff7b2
+run_name: logreg-train
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763259680971
+status: 3
+tags: []
+user_id: airflow

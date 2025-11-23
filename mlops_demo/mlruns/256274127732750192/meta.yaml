@@ -1,0 +1,6 @@
+artifact_location: file:///opt/airflow/mlops_demo/mlruns/256274127732750192
+creation_time: 1763259604414
+experiment_id: '256274127732750192'
+last_update_time: 1763259604414
+lifecycle_stage: active
+name: airflow-mlops-demo

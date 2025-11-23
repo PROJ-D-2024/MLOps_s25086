@@ -1,0 +1,14 @@
+artifact_uri: file:///opt/airflow/mlops_demo/mlruns/505932738084141169/8f4a88f1710d4cacb3d22d077f22337e/artifacts
+end_time: 1763308915133
+entry_point_name: ''
+experiment_id: '505932738084141169'
+lifecycle_stage: active
+run_id: 8f4a88f1710d4cacb3d22d077f22337e
+run_name: rf-regressor-train
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763308798981
+status: 3
+tags: []
+user_id: airflow

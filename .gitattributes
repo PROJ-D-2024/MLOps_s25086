@@ -1,0 +1,4 @@
+mlops_demo/registry/*.pkl filter=lfs diff=lfs merge=lfs -text
+mlops_demo/artifacts/*.pkl filter=lfs diff=lfs merge=lfs -text
+mlops_demo/mlruns/**/*.pkl filter=lfs diff=lfs merge=lfs -text
+mlops_demo/artifacts/preprocessed.csv filter=lfs diff=lfs merge=lfs -text

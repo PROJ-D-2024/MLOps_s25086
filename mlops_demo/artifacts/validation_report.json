@@ -1,0 +1,29 @@
+{
+  "rows": 37529,
+  "cols": [
+    "index",
+    "title",
+    "price",
+    "currency",
+    "year",
+    "mileage",
+    "fuel",
+    "transmission",
+    "displacement",
+    "horsepower",
+    "location"
+  ],
+  "null_counts": {
+    "index": 0,
+    "title": 0,
+    "price": 0,
+    "currency": 0,
+    "year": 0,
+    "mileage": 1,
+    "fuel": 0,
+    "transmission": 150,
+    "displacement": 0,
+    "horsepower": 0,
+    "location": 0
+  }
+}

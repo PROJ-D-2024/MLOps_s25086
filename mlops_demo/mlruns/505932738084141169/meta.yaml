@@ -1,0 +1,6 @@
+artifact_location: file:///opt/airflow/mlops_demo/mlruns/505932738084141169
+creation_time: 1763306162931
+experiment_id: '505932738084141169'
+last_update_time: 1763306162931
+lifecycle_stage: active
+name: airflow-mlops-pro1d-assignment-regression
